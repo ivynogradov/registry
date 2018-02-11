@@ -1,0 +1,17 @@
+{
+	"options": {
+		"fileNameFormat": ["prefix", "spacer", "day", "spacer", "month", "spacer", "year"],
+		"fileExtensions": ["csv", "CSV"]
+	},
+	"db": [
+		{
+			"id": "",
+			"fileName": "",
+			"period": "",
+			"header": "",
+			"ticketIds": [
+
+			]
+		}
+	]
+}

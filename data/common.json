@@ -1,0 +1,20 @@
+{
+	"columns": {
+		"NUMBER": {
+			"loc": {
+				"en": "",
+				"ua": "",
+				"ru": ""
+			},
+			"find": "",
+			"desc": ""
+		}
+	},
+	"fileNameFormat": {
+		"prefix": "reg",
+		"spacer": "-",
+		"day": "DD",
+		"month": "DD",
+		"year": "DDDD"
+	}
+}

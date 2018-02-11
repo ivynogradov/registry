@@ -1,0 +1,21 @@
+{
+	"dataPaths": {
+		"commonFile": "",
+		"historyFile": "",
+		"ticketsFile": ""
+	},
+	"templatesPaths": {
+		"agregator": "",
+		"registry": "",
+		"checks": ""
+	},
+	"inputDataPath": {
+		"registries": ""
+	},
+	"outputDataPath": {
+		"pages": ""
+	},
+
+
+	"consoleVerbose": false
+}
